@@ -1,0 +1,51 @@
+ticket_id,ticket_text,tag_1,confidence_1,tag_2,confidence_2,tag_3,confidence_3,ground_truth
+TKT0001,I was charged twice for my last month's subscription. Can you refund me?,Subscription,0.34838294982910156,Refund Request,0.3073643147945404,General Inquiry,0.08602743595838547,Billing
+TKT0002,My credit card was charged but I didn't receive the service. Please help.,General Inquiry,0.21054679155349731,Billing,0.15404604375362396,Technical Issue,0.14646078646183014,Billing
+TKT0003,Why is my bill higher than usual this month? I need an explanation.,Billing,0.42273586988449097,General Inquiry,0.12844181060791016,Subscription,0.07703787833452225,Billing
+TKT0004,I want to cancel my subscription but was still charged. Issue a refund please.,Subscription,0.521485447883606,Refund Request,0.18393896520137787,General Inquiry,0.06510492414236069,Billing
+TKT0005,Incorrect billing amount on my invoice. Please correct this immediately.,Billing,0.5421403646469116,Bug Report,0.12475679069757462,Account Management,0.08568982034921646,Billing
+TKT0006,Double payment detected on my account. Need immediate refund.,Refund Request,0.38946813344955444,Bug Report,0.17575576901435852,Account Management,0.15047521889209747,Billing
+TKT0007,Unexpected charges appeared on my statement. What are these for?,General Inquiry,0.14517700672149658,Integration,0.11968103796243668,Feature Request,0.11944987624883652,Billing
+TKT0008,My promotional discount wasn't applied to this month's bill.,Billing,0.4536334276199341,Refund Request,0.11802524328231812,Account Management,0.07611686736345291,Billing
+TKT0009,I downgraded my plan but still charged for premium. Fix this.,Billing,0.28069475293159485,Bug Report,0.14134328067302704,Subscription,0.11410321295261383,Billing
+TKT0010,Payment failed but money was deducted from my account. Help!,Account Management,0.22197452187538147,General Inquiry,0.1704653799533844,Bug Report,0.10459795594215393,Billing
+TKT0011,The application keeps crashing when I try to upload files.,Technical Issue,0.4646070897579193,Bug Report,0.18038047850131989,General Inquiry,0.08286026865243912,Technical Issue
+TKT0012,Cannot login to my account. Password reset not working either.,Password Reset,0.5858502984046936,Bug Report,0.09544464945793152,Account Management,0.07117637991905212,Technical Issue
+TKT0013,Website is extremely slow and times out frequently.,Technical Issue,0.278061181306839,General Inquiry,0.1434483379125595,Billing,0.09403553605079651,Technical Issue
+TKT0014,Getting 404 error when accessing my dashboard.,Technical Issue,0.31885117292404175,Bug Report,0.1419900804758072,General Inquiry,0.14087988436222076,Technical Issue
+TKT0015,Mobile app crashes every time I open it. Tried reinstalling.,Technical Issue,0.3169110417366028,Bug Report,0.19892098009586334,General Inquiry,0.15578466653823853,Technical Issue
+TKT0016,Features missing after latest update. Cannot access reports anymore.,Technical Issue,0.21253672242164612,Feature Request,0.1675628274679184,Subscription,0.13648587465286255,Technical Issue
+TKT0017,Integration with third-party tools is broken. Please fix.,Integration,0.7105265259742737,Technical Issue,0.14207123219966888,Feature Request,0.06315992772579193,Technical Issue
+TKT0018,Data not syncing between devices. Very frustrating.,Technical Issue,0.4191054403781891,Bug Report,0.16675573587417603,Integration,0.09483373165130615,Technical Issue
+TKT0019,Export function not working. Keeps showing error message.,Bug Report,0.2936980724334717,Technical Issue,0.19695885479450226,Feature Request,0.10283014923334122,Technical Issue
+TKT0020,Cannot upload documents larger than 5MB despite premium plan.,Technical Issue,0.2828499674797058,Subscription,0.26578429341316223,Billing,0.08088664710521698,Technical Issue
+TKT0021,Forgot my password and email recovery not working.,Bug Report,0.3312299847602844,Technical Issue,0.3233603239059448,Password Reset,0.08170853555202484,Account Management
+TKT0022,Cannot change my email address in account settings.,Account Management,0.30450162291526794,Technical Issue,0.26536130905151367,Bug Report,0.08838638663291931,Account Management
+TKT0023,Account got locked after multiple failed login attempts.,Account Management,0.33142825961112976,Technical Issue,0.14576740562915802,Bug Report,0.12410109490156174,Account Management
+TKT0024,Two-factor authentication not sending codes to my phone.,Bug Report,0.20801523327827454,Integration,0.15542654693126678,Technical Issue,0.1413281112909317,Account Management
+TKT0025,Want to delete my account permanently but option is missing.,Account Management,0.4431798458099365,Technical Issue,0.13028210401535034,General Inquiry,0.08833348006010056,Account Management
+TKT0026,Cannot update my profile information. Save button not working.,Technical Issue,0.3149827718734741,Bug Report,0.19586613774299622,Account Management,0.12183741480112076,Account Management
+TKT0027,Need to merge two accounts under same email address.,Integration,0.26864925026893616,Account Management,0.22673580050468445,Technical Issue,0.1324724704027176,Account Management
+TKT0028,Account showing as suspended but I haven't violated terms.,Account Management,0.30457767844200134,General Inquiry,0.14447899162769318,Subscription,0.14225757122039795,Account Management
+TKT0029,Cannot add team members to my account. Getting permission error.,Technical Issue,0.2186763882637024,Account Management,0.2057456225156784,Bug Report,0.16590017080307007,Account Management
+TKT0030,Profile picture upload fails every time. What's the issue?,Technical Issue,0.25114506483078003,Bug Report,0.18225368857383728,Feature Request,0.15321587026119232,Account Management
+TKT0031,Please add dark mode to the application. It's hard on eyes.,Feature Request,0.7367812991142273,Technical Issue,0.10689029842615128,General Inquiry,0.03462356701493263,Feature Request
+TKT0032,Would love to see export to PDF feature in reports.,Feature Request,0.7485852837562561,General Inquiry,0.04563150927424431,Integration,0.042960409075021744,Feature Request
+TKT0033,Can you add bulk upload option for multiple files?,Feature Request,0.6149736046791077,General Inquiry,0.10362429916858673,Billing,0.07242903858423233,Feature Request
+TKT0034,Integration with Slack would be very helpful for our team.,Integration,0.829329252243042,Subscription,0.03397569805383682,General Inquiry,0.02981610968708992,Feature Request
+TKT0035,Need an option to schedule automated reports weekly.,Feature Request,0.28981706500053406,Subscription,0.13390366733074188,General Inquiry,0.11686605960130692,Feature Request
+TKT0036,Please add filtering options in the dashboard for better search.,Feature Request,0.7063996195793152,Subscription,0.04692770540714264,General Inquiry,0.04214362055063248,Feature Request
+TKT0037,Mobile app needs offline mode for field workers.,Feature Request,0.4211835563182831,Technical Issue,0.31114739179611206,General Inquiry,0.06108180806040764,Feature Request
+TKT0038,Add customizable templates for common workflows.,Feature Request,0.22160042822360992,General Inquiry,0.12349610775709152,Technical Issue,0.11485974490642548,Feature Request
+TKT0039,Would like to see API documentation for developers.,Feature Request,0.49557676911354065,Technical Issue,0.14344975352287292,General Inquiry,0.09633529931306839,Feature Request
+TKT0040,Please implement role-based access control for team accounts.,Feature Request,0.6918256282806396,Account Management,0.06081618368625641,Technical Issue,0.0419447161257267,Feature Request
+TKT0041,What are the differences between Basic and Premium plans?,Feature Request,0.20108117163181305,General Inquiry,0.19874529540538788,Subscription,0.13570253551006317,General Inquiry
+TKT0042,Do you offer educational discounts for students?,Feature Request,0.4030342698097229,General Inquiry,0.16731205582618713,Integration,0.10608698427677155,General Inquiry
+TKT0043,Is there a free trial available before I purchase?,General Inquiry,0.19187010824680328,Feature Request,0.1814892590045929,Subscription,0.10416914522647858,General Inquiry
+TKT0044,What's your refund policy for annual subscriptions?,Subscription,0.320556104183197,Refund Request,0.14046216011047363,General Inquiry,0.13258294761180878,General Inquiry
+TKT0045,Do you have customer support available on weekends?,General Inquiry,0.20373953878879547,Feature Request,0.1700068563222885,Subscription,0.1160254254937172,General Inquiry
+TKT0046,Can I upgrade my plan mid-billing cycle?,Billing,0.5607907772064209,Feature Request,0.10990540683269501,Refund Request,0.06704742461442947,General Inquiry
+TKT0047,What payment methods do you accept?,General Inquiry,0.22580301761627197,Feature Request,0.16100776195526123,Technical Issue,0.1379842311143875,General Inquiry
+TKT0048,Is my data encrypted and secure on your platform?,General Inquiry,0.29434022307395935,Feature Request,0.24826973676681519,Technical Issue,0.09782062470912933,General Inquiry
+TKT0049,Do you offer training sessions for new users?,General Inquiry,0.2989788353443146,Feature Request,0.2762550413608551,Technical Issue,0.09026100486516953,General Inquiry
+TKT0050,What's the maximum storage limit on the enterprise plan?,Feature Request,0.2782691717147827,General Inquiry,0.14919471740722656,Technical Issue,0.1468001902103424,General Inquiry
